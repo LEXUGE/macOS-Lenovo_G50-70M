@@ -1,4 +1,4 @@
-##**Tools**
+##Tools
 
 - Clover configurator: https://mackie100projects.altervista.org/download-clover-configurator/
 
@@ -8,9 +8,8 @@
 
 - CPU-S: https://github.com/lihaoyun6/CPU-S/
 
-  
 
-##**Kexts**
+##Kexts
 
 - `WhateverGreen`: https://github.com/acidanthera/WhateverGreen
 - `ACPIBatteryManager`: https://github.com/RehabMan/OS-X-ACPI-Battery-Driver
